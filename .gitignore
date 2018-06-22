@@ -1,0 +1,12 @@
+/target/
+/*.classpath
+/.settings
+/.classpath
+/src/main/resources/bootstrap.yml
+/.factorypath
+/.apt_generated/
+/.project
+/.springBeans
+/.idea/
+saas-ui.iml
+
